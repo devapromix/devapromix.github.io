@@ -1,0 +1,53 @@
+h1 {
+  font-size: 4em;
+  font-family: Garamond, EB Garamond, serif;
+  font-style: italic;
+  text-align: center;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: Garamond, EB Garamond, serif;
+}
+
+body {
+  font-family: Open Sans, sans-serif;
+}
+
+.navbardiv {
+  background-color: #262626;
+  text-align: center;
+}
+
+.navbar li {
+  display: inline;
+  list-style-type:none;
+  margin-bottom: 1.5em;
+}
+
+.navbar a {
+  font-weight: bold;
+  color: #FFFFFF;
+  background-color: #262626;
+  text-align: center;
+  padding-right: 2.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+:link, :visited {
+  color: #000000; 
+}
+
+.caption-img {
+  text-align: justify;
+}
+
+.caption-img img {
+  display: block;
+  margin: auto;
+}
+
+body {
+  margin-left: 25%;
+  margin-right: 25%;
+}
